@@ -92,9 +92,9 @@ def establish_connection():
     Return mydb, the connected database
     """
     mydb = mysql.connector.connect(
-      host= "Gaia",
-      user= "katie",
-      password= "Amber**98910",
+      host= "",
+      user= "",
+      password= "",
       database = "pedigree_chart_db"
     )
     return mydb
