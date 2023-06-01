@@ -1,4 +1,5 @@
 # pedigree_chart
+
 This code was designed to generate and display a 'Game of Thrones' type family tree.
 
 Download all and open pedigree_chart_main.py. Choose which functions to execute to get desired output.
