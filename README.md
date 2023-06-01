@@ -8,8 +8,7 @@ This code was designed to generate and display a 'Game of Thrones' type family t
  -  display: prints faily tree information in either text or prints instructions to display it in graphviz.
  -  expand_tree: creates inital node and expands generation of the tree.
  -  sql: make a database using mysql.
- -  test_file:
- -  web:
+ -  web: run a webpage, displaying a table with the family tree information.
 
 To run the code, download all and open pedigree_chart_main.py. Choose which functions to execute to get desired output. If you wish to run anything in regards to databases, you will have to have mysql installed. Edit the establish_connection function in pedigree_chart_sql.py and add your host name, username and password.
 
