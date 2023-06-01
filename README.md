@@ -7,7 +7,7 @@ This code was designed to generate and display a 'Game of Thrones' type family t
  -  csv: reads and writes family tree to a csv.
  -  display: prints faily tree information in either text or prints instructions to display it in graphviz.
  -  expand_tree: creates inital node and expands generation of the tree.
- -  sql:
+ -  sql: make a database using mysql.
  -  test_file:
  -  web:
 
